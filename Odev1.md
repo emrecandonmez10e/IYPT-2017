@@ -4,18 +4,19 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+10-E   | EMRECAN DÖNMEZ | 490  
 
-#  (buraya proje başlığını yazınız)
-## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+WET AND DARK(ISLAK VE KOYU)
 
+ÖZET
+   Kıyafetler veya kumaştan ve türevlerinden yapılmış olan maddeler su gibi sıvı bir maddeyle temasları sonrasında daha koyu bir renge geçiş yaparak renk değişimi gösterirler, bu herkesin kabul ettiği genel bir kanıdır. Fakat neden? Bu projede bunu deneysel ve teorik olarak açıklamaya ve sunmaya çalışacağım.
+   
+   Basit olarak ifade etmek gerekirse aslında bu yine ışık yansımalarının beynimize ulaşma şekliyle bağlantılı bir durumdur. Eğer bakacak olursak çoğu zaman kıyafete dökülen maddenin bir önemi yoktur. Önemli olan kumaş rengidir. Normal şartlar altında cisimlerin renklerini onlara ışık vurduğu için görürüz. Ne kadar çok ışık vurrsa cisim bizim için o kadar parlak demektir. Fakat biz onu ıslattığımızda ışık, sıvı engelini de geçerek yansıma yapmak zorunda kaldığı için cismin rengi bize daha koyu görünür
+   
+   Deneyde kullanacağım maddeler ise basit; değişik maddelerden kıyafetler, farklı miktarlarda, farklı sıvılar, yapay bir ışık kaynağı ve kamera.
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
 
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
-
+http://kit.ilyam.org/SD_2015_IYPT_Reference_kit.pdf
+http://solutions.iypt.org/uploads/2015_RU_Wet_and_dark_Nikita_Grushetsky_Maria_Mukhina_Egor_Shamanov_1441073708.pdf
+https://physics.stackexchange.com/questions/30366/why-do-wet-objects-become-darker
+https://www.quora.com/Why-do-clothes-get-dark-when-they-get-wet
